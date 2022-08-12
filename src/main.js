@@ -6,6 +6,7 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import AppFresh from './components/App.vue'
 
+
 Vue.use(ElementUI);
 
 // 设置在启动时生成生产提示
